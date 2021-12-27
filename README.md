@@ -1,2 +1,2 @@
 # NN_fromScratch
-Building a Neural N from scratch
+Building a Neural Network from scratch
